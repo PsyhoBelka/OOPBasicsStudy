@@ -7,7 +7,7 @@ Developer (id, name, age, salary, gender, fixedBugs)
 Manager (id, name, age, salary, gender)
 
 ставка -> salary
-***
+
 Расчет итоговой зарплаты для Developer происходит по формуле:
 
 (ставка + fixedBugs * 1.5) * (randomBoolean ? 2 : 0) 
